@@ -78,29 +78,6 @@ namespace ClassLogic
                 }
             }
 
-            //switch (val)
-            //{
-            //    case 1:
-            //        hasil = 1;
-            //        break;
-            //    case 2:
-            //        hasil = 2;
-            //        break;
-            //    case 3:
-            //        hasil = 5;
-            //        break;
-            //    case 4:
-            //        hasil = 7;
-            //        break;
-            //    case 5:
-            //        hasil = 12;
-            //        break;
-            //    case 6:
-            //        hasil = 20;
-            //        break;
-
-            //}
-
             return hasil;
         }
     }
