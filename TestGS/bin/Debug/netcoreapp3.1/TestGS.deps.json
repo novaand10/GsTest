@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestGS/1.0.0": {
+        "dependencies": {
+          "ClassLogic": "1.0.0"
+        },
+        "runtime": {
+          "TestGS.dll": {}
+        }
+      },
+      "ClassLogic/1.0.0": {
+        "runtime": {
+          "ClassLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestGS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

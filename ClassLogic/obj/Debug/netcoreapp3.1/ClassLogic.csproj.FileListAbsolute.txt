@@ -1,0 +1,9 @@
+D:\apps\c#\ClassLogic\bin\Debug\netcoreapp3.1\ClassLogic.deps.json
+D:\apps\c#\ClassLogic\bin\Debug\netcoreapp3.1\ClassLogic.dll
+D:\apps\c#\ClassLogic\bin\Debug\netcoreapp3.1\ClassLogic.pdb
+D:\apps\c#\ClassLogic\obj\Debug\netcoreapp3.1\ClassLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\c#\ClassLogic\obj\Debug\netcoreapp3.1\ClassLogic.AssemblyInfoInputs.cache
+D:\apps\c#\ClassLogic\obj\Debug\netcoreapp3.1\ClassLogic.AssemblyInfo.cs
+D:\apps\c#\ClassLogic\obj\Debug\netcoreapp3.1\ClassLogic.csproj.CoreCompileInputs.cache
+D:\apps\c#\ClassLogic\obj\Debug\netcoreapp3.1\ClassLogic.dll
+D:\apps\c#\ClassLogic\obj\Debug\netcoreapp3.1\ClassLogic.pdb

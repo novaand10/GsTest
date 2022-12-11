@@ -1,0 +1,17 @@
+D:\apps\c#\TestGS\bin\Debug\netcoreapp3.1\TestGS.exe
+D:\apps\c#\TestGS\bin\Debug\netcoreapp3.1\TestGS.deps.json
+D:\apps\c#\TestGS\bin\Debug\netcoreapp3.1\TestGS.runtimeconfig.json
+D:\apps\c#\TestGS\bin\Debug\netcoreapp3.1\TestGS.runtimeconfig.dev.json
+D:\apps\c#\TestGS\bin\Debug\netcoreapp3.1\TestGS.dll
+D:\apps\c#\TestGS\bin\Debug\netcoreapp3.1\TestGS.pdb
+D:\apps\c#\TestGS\bin\Debug\netcoreapp3.1\ClassLogic.dll
+D:\apps\c#\TestGS\bin\Debug\netcoreapp3.1\ClassLogic.pdb
+D:\apps\c#\TestGS\obj\Debug\netcoreapp3.1\TestGS.csproj.AssemblyReference.cache
+D:\apps\c#\TestGS\obj\Debug\netcoreapp3.1\TestGS.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\c#\TestGS\obj\Debug\netcoreapp3.1\TestGS.AssemblyInfoInputs.cache
+D:\apps\c#\TestGS\obj\Debug\netcoreapp3.1\TestGS.AssemblyInfo.cs
+D:\apps\c#\TestGS\obj\Debug\netcoreapp3.1\TestGS.csproj.CoreCompileInputs.cache
+D:\apps\c#\TestGS\obj\Debug\netcoreapp3.1\TestGS.csproj.CopyComplete
+D:\apps\c#\TestGS\obj\Debug\netcoreapp3.1\TestGS.dll
+D:\apps\c#\TestGS\obj\Debug\netcoreapp3.1\TestGS.pdb
+D:\apps\c#\TestGS\obj\Debug\netcoreapp3.1\TestGS.genruntimeconfig.cache
